@@ -69,3 +69,7 @@ Implemented and compared:
 - Use machine learning models (XGBoost, LSTM)
 - Deploy forecasting model using Streamlit or Flask
 
+## 👨‍💻 Author
+Suraj Sitoula \
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-sitoula/) \
+Aspiring Data Analyst | Skilled in SQL, Python, Power BI, Tableau, Machine Learning!
